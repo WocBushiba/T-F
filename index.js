@@ -4,4 +4,5 @@ if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobi
 }
 else
 {
+    window.location.href = "./index_d.html"
 }

@@ -1,11 +1,4 @@
-@font-face {
-    font-family: HanaminRegular;
-    src: url(./Assets/日本花园明朝体.ttf) format("truetype");
-}
-@font-face {
-    font-family: SourceHanSerifRegular;
-    src: url(./Assets/SourceHanSerif-Regular.otf) format("opentype");
-}
+
 @font-face {
     font-family: AIMyouChouRegular;
     src: url(./Assets/A-OTF-A1MingChaoStd-Bold-2.otf) format("opentype");

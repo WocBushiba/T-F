@@ -1,0 +1,16 @@
+@font-face {
+    font-family: HanaminRegular;
+    src: url(./Assets/日本花园明朝体.ttf) format("truetype");
+}
+@font-face {
+    font-family: SourceHanSerifRegular;
+    src: url(./Assets/SourceHanSerif-Regular.otf) format("");
+}
+article{
+    font-family: "SourceHanSerifRegular";
+    text-align: center;
+    writing-mode: tb-rl;
+    float: right;
+    font-size: 600%;
+    line-height: 300%;
+}
